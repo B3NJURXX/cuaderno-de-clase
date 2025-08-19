@@ -1,0 +1,12 @@
+<html>
+<head>
+<title> MI PRIMERA PAGINA WEB </title>
+<link rel= "icon" href= "98" type= "image/jpg" />
+</head>
+<body style="background-color:#27B471">
+<h1> Escribiendo HTML </h1>
+<h2> Benjamin Arbelo </h2>
+<h3> essta es mi primera vez usando formato HTML </h3>
+<img src= "98">
+</body>
+</html>
